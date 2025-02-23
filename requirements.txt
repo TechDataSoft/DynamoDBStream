@@ -1,0 +1,8 @@
+python-dotenv
+pyyaml
+fastapi
+uvicorn
+aiokafka
+redis
+pydantic
+sqlalchemy

@@ -1,0 +1,10 @@
+app:
+  name: KafkaStreamApp
+  version: 1.0
+
+kafka:
+  topic: data_stream
+  group_id: data-group
+
+redis:
+  cache_ttl: 300  # Время жизни кеша в секундах
